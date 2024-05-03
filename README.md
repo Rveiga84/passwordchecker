@@ -39,4 +39,3 @@ open index.html
 ## Live Demo
 
 You can try out the live demo of the project [here](https://tinyurl.com/48j3jjnb).
-
